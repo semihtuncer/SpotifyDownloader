@@ -20,6 +20,7 @@
 
 ### :bangbang: Prerequisites
 - Install ffmpeg for mp3 to raw conversion<a href="https://ffmpeg.org"> Here</a>
+- Configure your .env folder<a href="https://developer.spotify.com"> Here</a>
 
 ### :gear: Installation
 Use pip to install the libraries
