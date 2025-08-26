@@ -11,10 +11,18 @@
 
 - [About the Project](#star2-about-the-project)
 
-
 ## :star2: About the Project
 
 ### :dart: Features
 - Playlist downloading.
 - MP3 to RAW audio data conversion.
 - Consistent UI for ease of use.
+
+### :bangbang: Prerequisites
+- Install ffmpeg for mp3 to raw conversion<a href="https://ffmpeg.org"> Here</a>
+
+### :gear: Installation
+Use pip to install the libraries
+```bash
+pip install -r requirements.txt
+```
