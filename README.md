@@ -1,7 +1,8 @@
 <div align='center'>
 
 <h1>An MP3 Downloader For Spotify</h1>
-<p>A Python-based Spotify playlist downloader that integrates with the Spotify API to retrieve playlist tracks and uses the YouTube API to search and download the corresponding song..</p>
+<img width="391" height="468" alt="image" src="https://github.com/user-attachments/assets/ed1fd9d1-497b-45ff-bffb-d6493650a9e1" />
+<p>A Python-based Spotify playlist downloader that integrates with the Spotify API to retrieve playlist tracks and uses the YouTube API to search and download the corresponding song. PyQT is used to create the UI.</p>
 
 
 </div>
